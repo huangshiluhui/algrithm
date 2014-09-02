@@ -1,5 +1,5 @@
-有两种方法实现：
-方法一：使用栈来实现
+/*有两种方法实现：
+方法一：使用栈来实现*/
 package com.offer;
 
 import java.util.Stack;
@@ -36,7 +36,7 @@ public class IQ_5_1 {
 }
 
 
-方法二：使用递归实现
+/*方法二：使用递归实现*/
 package com.offer;
 
 public class IQ_5 {
